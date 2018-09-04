@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="12" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="17" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="29" pc="268435522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="30" pc="268435529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="31" pc="268435536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="32" pc="268435584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="33" pc="268435601" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="34" pc="268435611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="35" pc="268435611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="37" pc="268435637" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="38" pc="268435662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="39" pc="268435673" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="42" pc="268435686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="43" pc="268435697" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="46" pc="268435710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="47" pc="268435744" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="48" pc="268435751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="51" pc="268435772" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="52" pc="268435853" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="53" pc="268435918" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="55" pc="268435944" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="56" pc="268436009" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="58" pc="268436032" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="61" pc="268436092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="62" pc="268436116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="63" pc="268436130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="64" pc="268436154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptView.mc" lineNum="68" pc="268436168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="28" pc="268436200" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="29" pc="268436207" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="30" pc="268436215" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="32" pc="268436238" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="34" pc="268436262" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="36" pc="268436282" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="37" pc="268436325" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="38" pc="268436368" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="39" pc="268436411" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="40" pc="268436424" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="42" pc="268436440" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="43" pc="268436469" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="44" pc="268436494" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="45" pc="268436523" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="46" pc="268436548" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="47" pc="268436568" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="48" pc="268436590" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="50" pc="268436615" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="51" pc="268436646" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="52" pc="268436671" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="53" pc="268436705" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="55" pc="268436730" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="56" pc="268436759" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="57" pc="268436793" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="58" pc="268436818" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="59" pc="268436844" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="67" pc="268436873" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="69" pc="268436885" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="70" pc="268436917" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="72" pc="268436961" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="74" pc="268436991" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="75" pc="268437027" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="76" pc="268437071" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="77" pc="268437115" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="78" pc="268437145" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="79" pc="268437175" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="80" pc="268437201" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="81" pc="268437230" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="82" pc="268437247" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="84" pc="268437286" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="86" pc="268437322" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="87" pc="268437357" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="88" pc="268437374" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="90" pc="268437413" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="92" pc="268437449" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="93" pc="268437466" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptBackground.mc" lineNum="95" pc="268437505" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptApp.mc" lineNum="7" pc="268437543" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptApp.mc" lineNum="20" pc="268437570" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Brian\\Downloads\\connectiq-sdk-win-1.2.11\\samples\\2AttemptatPineapple\\source\\SecondAttemptApp.mc" lineNum="25" pc="268437610" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="32" pc="268437629" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268437705" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268437732" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268437748" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268437762" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268437872" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268437887" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268437939" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="41" pc="268437953" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="42" pc="268438063" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="43" pc="268438078" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="44" pc="268438130" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="18" symbol="goal"/>
+<entry field="true" id="28" symbol="id_background3"/>
+<entry field="true" id="27" symbol="id_background2"/>
+<entry field="true" id="31" symbol="ColorBlue"/>
+<entry field="true" id="23" symbol="steps6"/>
+<entry field="true" id="22" symbol="steps5"/>
+<entry field="true" id="21" symbol="steps4"/>
+<entry field="true" id="20" symbol="steps3"/>
+<entry field="true" id="17" symbol="steps2"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="38" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="19" symbol="goal2"/>
+<entry field="true" id="37" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="32" symbol="ColorRed"/>
+<entry field="true" id="16" symbol="batteryLife"/>
+<entry field="true" id="33" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="40" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8" object="true" symbol="SecondAttemptView"/>
+<entry id="10" object="true" symbol="SecondAttemptApp"/>
+<entry field="true" id="12" symbol="bgcolor"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry id="41" symbol="App"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="39" symbol="ColorLightGreen"/>
+<entry field="true" id="14" symbol="background3"/>
+<entry field="true" id="13" symbol="background2"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="26" symbol="id_background"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="35" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="30" symbol="ColorLightGray"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry field="true" id="34" symbol="BackgroundColorTitle"/>
+<entry id="25" module="true" symbol="Layouts"/>
+<entry field="true" id="8388912" symbol="steps"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="11" symbol="background"/>
+<entry field="true" id="36" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="15" symbol="check"/>
+<entry id="24" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436188" name="timeString" stackId="7" startPc="268435522"/>
+<entry endPc="268436188" name="dayString" stackId="8" startPc="268435522"/>
+<entry endPc="268436188" name="timeFormat2" stackId="3" startPc="268435522"/>
+<entry endPc="268436188" name="dateLabel" stackId="10" startPc="268435522"/>
+<entry endPc="268436188" name="clockTime" stackId="5" startPc="268435522"/>
+<entry endPc="268436188" name="timeFormat" stackId="2" startPc="268435522"/>
+<entry endPc="268436188" name="view" stackId="9" startPc="268435522"/>
+<entry endPc="268436188" name="hours" stackId="6" startPc="268435522"/>
+<entry endPc="268436188" name="dateInfo" stackId="4" startPc="268435522"/>
+<entry endPc="268438167" name="rez_cmp_local_label_DateLabel" stackId="7" startPc="268437629"/>
+<entry endPc="268438167" name="rez_cmp_local_label_DateLabel_font" stackId="6" startPc="268437629"/>
+<entry endPc="268438167" name="rez_cmp_local_custom_drawable_Background" stackId="2" startPc="268437629"/>
+<entry endPc="268438167" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="8" startPc="268437629"/>
+<entry endPc="268438167" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268437629"/>
+<entry endPc="268438167" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268437629"/>
+<entry endPc="268438167" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268437629"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="SecondAttemptView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="SecondAttemptView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="SecondAttemptView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SecondAttemptView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="SecondAttemptView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="SecondAttemptView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="SecondAttemptView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SecondAttemptApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="SecondAttemptApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="SecondAttemptApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="SecondAttemptApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="SecondAttemptApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

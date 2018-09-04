@@ -1,0 +1,9 @@
+<layout id="WatchFace">
+    <drawable id="Background" class="Background">
+		<param name="locX">70</param>
+		<param name="locY">70</param>
+		<param name="bgcolor">Gfx.COLOR_PURPLE</param>
+    </drawable>	
+    <label id="TimeLabel" x="center" y="27" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+	<label id="DateLabel" x="center" y="7" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+</layout>

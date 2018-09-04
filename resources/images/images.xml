@@ -1,0 +1,5 @@
+<resources>	
+	<bitmap id="id_background" filename="pineapple9.png" dithering="none" />
+	<bitmap id="id_background2" filename="feet4.png" dithering="none" />
+	<bitmap id="id_background3" filename="charging.png" dithering="none" />
+</resources>
